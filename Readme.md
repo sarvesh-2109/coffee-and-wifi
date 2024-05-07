@@ -4,6 +4,10 @@ The "Coffee & Wifi" application is a Flask-based web project that helps users fi
 
 ## Output
 
+
+https://github.com/sarvesh-2109/coffee-and-wifi/assets/113255836/581ebabb-83f8-4e6d-b60c-edd6b39bc3ad
+
+
 ## Project Structure
 
 The project is structured into several key components including Python scripts, HTML templates, a CSS stylesheet, and a CSV file for data storage. Below is an outline of the major components:
